@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 git add .
 printf "Enter Commit Message: "
 read FMT
